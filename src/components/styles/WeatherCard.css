@@ -1,0 +1,13 @@
+.MuiPaper-root.MuiCard-root {
+  margin: 0 auto;
+}
+
+.MuiGrid-root {
+  justify-content: center;
+}
+
+@media screen and (max-width: 900px) {
+  .MuiGrid-root {
+    justify-content: center;
+  }
+}

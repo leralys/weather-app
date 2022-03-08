@@ -1,0 +1,17 @@
+.Header {
+  background-color: var(--color-dark-blue);
+  margin-bottom: 2.5rem;
+}
+.Header.MuiPaper-root.MuiAppBar-root {
+  justify-content: space-between;
+  background-color: var(--color-dark-blue);
+}
+.Header a {
+  text-decoration: none;
+  color: var(--color-white);
+  opacity: 0.5;
+}
+#logo {
+  color: var(--color-light-blue);
+  opacity: 1;
+}
